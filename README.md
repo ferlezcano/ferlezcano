@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Lezcano</h1>
-<h3 align="center">A passionate software developer and CEO and Founder of www.flex.com.py from Paraguay</h3>
+<h3 align="center">A passionate software developer and CEO of www.flex.com.py from Paraguay</h3>
 
 - 🔭 I’m currently working on **Spring Boot + Angular projects.**
 
